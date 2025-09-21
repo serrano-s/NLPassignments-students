@@ -1,5 +1,6 @@
 data/analogies/dev.csv
-data/embeddings/glove.6B/glove.6B.50d.txt
+data/embeddings/glove.6B/glove.6B.50d.part1.txt
+data/embeddings/glove.6B/glove.6B.50d.part2.txt
 data/embeddings/glove.6B/glove.WEAT.6B.50d.txt
 data/embeddings/glove.6B/glove.WEAT.6B.100d.txt
 data/embeddings/glove.6B/glove.WEAT.6B.200d.txt
