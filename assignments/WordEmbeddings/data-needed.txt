@@ -1,0 +1,16 @@
+data/analogies/dev.csv
+data/embeddings/glove.6B/glove.6B.50d.txt
+data/embeddings/glove.6B/glove.WEAT.6B.50d.txt
+data/embeddings/glove.6B/glove.WEAT.6B.100d.txt
+data/embeddings/glove.6B/glove.WEAT.6B.200d.txt
+data/embeddings/glove.6B/glove.WEAT.6B.300d.txt
+data/embeddings/glove.42B/glove.WEAT.42B.300d.txt
+data/embeddings/glove.840B/glove.WEAT.840B.300d.txt
+data/pos_weights.txt
+data/sentence_similarity/dev.csv
+data/sst/sst_dev_binary.csv
+data/sst/sst_dev_multiclass.csv
+data/sst/sst_train_binary.csv
+data/sst/sst_train_multiclass.csv
+data/synonyms/dev.csv
+data/weat/weat.json
