@@ -1,0 +1,7 @@
+data/lexicon/negative-words.txt
+data/lexicon/positive-words.txt
+data/sst/sst_dev_binary.csv
+data/sst/sst_dev_multiclass.csv
+data/sst/sst_test_release.csv
+data/sst/sst_train_binary.csv
+data/sst/sst_train_multiclass.csv
