@@ -1,0 +1,2 @@
+data/shakespeare/shakespeare_train.txt
+data/shakespeare/shakespeare_dev.txt
