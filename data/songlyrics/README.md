@@ -1,0 +1,1 @@
+The 50-dimensional embeddings in `lyrics-embeddings.npy` are subset from Stanford's pretrained 50-dimensional Wikipedia + Gigaword 5 GloVe embeddings (https://nlp.stanford.edu/projects/glove/) to correspond to all words in `lyrics-train.csv`.
