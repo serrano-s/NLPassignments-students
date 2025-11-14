@@ -1,0 +1,73 @@
+{
+  "builder_name": "arrow",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96",
+  "dataset_size": 6826420,
+  "description": "",
+  "download_checksums": {
+    "/mmfs1/gscratch/argon/kahuja/.cache/Ximing___roc_stories/default-398c54d4a0967f6a/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/roc_stories-train.arrow": {
+      "num_bytes": 5614544,
+      "checksum": null
+    },
+    "/mmfs1/gscratch/argon/kahuja/.cache/Ximing___roc_stories/default-398c54d4a0967f6a/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/roc_stories-validation.arrow": {
+      "num_bytes": 614744,
+      "checksum": null
+    },
+    "/mmfs1/gscratch/argon/kahuja/.cache/Ximing___roc_stories/default-398c54d4a0967f6a/0.0.0/8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96/roc_stories-test.arrow": {
+      "num_bytes": 610576,
+      "checksum": null
+    }
+  },
+  "download_size": 6839864,
+  "features": {
+    "story_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "continuation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "constraint_words": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 13666284,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5604494,
+      "num_examples": 16207,
+      "dataset_name": "8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 613032,
+      "num_examples": 1817,
+      "dataset_name": "8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 608894,
+      "num_examples": 1819,
+      "dataset_name": "8bb11242116d547c741b2e8a1f18598ffdd40a1d4f2a2872c7a28b697434bc96"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
